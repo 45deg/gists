@@ -19,7 +19,7 @@ Macro Definition for a Erlang-like Actor Framework in JavaScript. Works for an o
 - [Watching friends/followers changes](https://gist.github.com/45deg/7688d6835ab5c24ce481869149ec8088) - Intended to be executed by cron or something else. Delivers DMs (Read/Write/DM permission required)
 - [extract.js](https://gist.github.com/45deg/25616048f49c2bc79325) - A command-line tool for extracting links from a page.
 - [Transffering a list to another account](https://gist.github.com/45deg/b88e755c69f73f09802c)
-- [Double Pendulum.elm](https://gist.github.com/45deg/7317a4cad24c769d3473) - Written in an old version of Elm
+- [Double Pendulum.elm](https://gist.github.com/45deg/7317a4cad24c769d3473) - Written in an old version of Elm. [Demo](http://45deg.github.io/rogysemi6th-slide/double_pendulum.html)
 
 ## Settings
 
