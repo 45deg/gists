@@ -5,6 +5,7 @@ Most are undocumented.
 
 ## Script
 
+- [kalman-frp](https://gist.github.com/45deg/327fd2e45564cb28ea33cc9288ad7d1d) An experiment code for kalman filtering in [emfrp](https://github.com/psg-titech/emfrp) (Functional Reactive Languages for Embedded Systems)
 - [Generating Spiral Dataset for Classifying in Python](https://gist.github.com/45deg/e731d9e7f478de134def5668324c44c5)
 - [promise-retry.js](https://gist.github.com/45deg/dbed59705153240a78f3b7518a6193b4) - A simple retry function for Promise in JS
 - [Accessing SoundCloud API in Node.js](https://gist.github.com/45deg/d5b257ad9a8a644e4e627dca8f071f5d) - SoundCloud API can't be registered currently. (2018/3/4)
