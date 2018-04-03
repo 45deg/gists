@@ -5,7 +5,7 @@ Most are undocumented.
 
 ## A Piece of Codes
 
-- (LTL.ml)[https://gist.github.com/45deg/15a3c7605f3f4749dca2dbf3ec38ff62] A naive implementation of Linear Temporal Logic
+- [LTL.ml](https://gist.github.com/45deg/15a3c7605f3f4749dca2dbf3ec38ff62) A naive implementation of Linear Temporal Logic
 - [kalman-frp](https://gist.github.com/45deg/327fd2e45564cb28ea33cc9288ad7d1d) An experiment code for kalman filtering in [emfrp](https://github.com/psg-titech/emfrp) (Functional Reactive Languages for Embedded Systems)
 - [Generating Spiral Dataset for Classifying in Python](https://gist.github.com/45deg/e731d9e7f478de134def5668324c44c5)
 - [promise-retry.js](https://gist.github.com/45deg/dbed59705153240a78f3b7518a6193b4) - A simple retry function for Promise in JS
