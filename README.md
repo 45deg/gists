@@ -3,7 +3,7 @@
 This list contains a temporary script which may not work now.
 Most are undocumented.
 
-## A Piece of Codes
+## Code Pieces
 
 - [LTL.ml](https://gist.github.com/45deg/15a3c7605f3f4749dca2dbf3ec38ff62) A naive implementation of Linear Temporal Logic
 - [kalman-frp](https://gist.github.com/45deg/327fd2e45564cb28ea33cc9288ad7d1d) An experiment code for kalman filtering in [emfrp](https://github.com/psg-titech/emfrp) (Functional Reactive Languages for Embedded Systems)
