@@ -1,6 +1,6 @@
 # Gists: My gist articles
 
-This list contains a temporary script which may not work now.
+This list contains temporary scripts and some ones may not work now.
 Most are undocumented.
 
 ## Code Pieces
