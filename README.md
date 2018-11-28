@@ -22,6 +22,7 @@ Macro Definition for a Erlang-like Actor Framework in JavaScript. Works for an o
 - [extract.js](https://gist.github.com/45deg/25616048f49c2bc79325) - A command-line tool for extracting links from a page.
 - [Transffering a list to another account](https://gist.github.com/45deg/b88e755c69f73f09802c)
 - [Double Pendulum.elm](https://gist.github.com/45deg/7317a4cad24c769d3473) - Written in an old version of Elm. [Demo](http://45deg.github.io/rogysemi6th-slide/double_pendulum.html)
+- [RayTracer for M5Stack](https://gist.github.com/45deg/1f4abfb26d7483895d9729924af41595) - [M5Stack](http://m5stack.com/). Reference: https://qiita.com/doxas/items/477fda867da467116f8d
 
 ## Settings
 
@@ -31,6 +32,7 @@ Macro Definition for a Erlang-like Actor Framework in JavaScript. Works for an o
 - [Dict\_for\_GoogleIME.txt](https://gist.github.com/45deg/47e84c92090d0cc9db9137f24fa1ec0d) - Google IME Dictionary for superscripts (e.g. ⁰) and subscripts (e.g. ₀)
 - [init.el for ProofGeneral and Evil](https://gist.github.com/45deg/d9d2cb72c8fe5dc7208078c2235e70cc) - Emacs Settings for ProofGeneral (Coq plugin) and Evil (Vim emulator for Emacs)
 - [Vagrantfile for TexLive](https://gist.github.com/45deg/90f8493399ee3cd240b7)
+- [OCaml (merlin) settings for VSCode](https://gist.github.com/45deg/306fbb7a9ea9013cb4eeccc3d75a52ce)
 
 ## Article (JP)
 
